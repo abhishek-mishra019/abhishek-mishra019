@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Angular, Firebase, HTML, CSS, Bootstrap](www.worktez.com)
 
-- 🌱 I’m currently learning **Angular, Firebase, Flutter**
+- 🌱 I’m currently learning **Angular, and Firebase**
 
 - 🤝 I’m looking for help with **Flutter**
 
