@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend, Linux.**
 
-- 📫 How to reach me **contact@geekyabhishek.com**
+- 📫 How to reach me **am1426620@gmail.com**
 
 - ⚡ Fun fact **If tea is Chai, what is coffee?**
 
